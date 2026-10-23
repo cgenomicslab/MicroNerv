@@ -1,0 +1,17 @@
+# Pipeline outputs and large inputs (see data/README.md)
+results/
+data/raw/
+data/proteomes/
+*.bam
+*.fastq.gz
+*.fq.gz
+
+# OS / tool noise
+@eaDir/
+.DS_Store
+.Rhistory
+.RData
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.claude/

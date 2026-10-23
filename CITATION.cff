@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "MicroNerv: code for 'Pre-neuronal origins of monoamine and acetylcholine synthesis and transport'"
+license: MIT
+abstract: "Funded by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the 3rd Call for H.F.R.I. Research Projects to support Post-Doctoral Researchers, Project Number 7561 (MicroNerv)."
+keywords:
+  - HFRI
+  - MicroNerv
+repository-code: "https://github.com/cgenomicslab/MicroNerv"
+authors:
+  - family-names: Pyrris
+    given-names: Yiannis
+  - family-names: Diallinas
+    given-names: George
+  - family-names: Pittis
+    given-names: Alexandros A.
+    orcid: "https://orcid.org/0000-0003-4116-9972"
+preferred-citation:
+  type: article
+  title: "Pre-neuronal origins of monoamine and acetylcholine synthesis and transport"
+  authors:
+    - family-names: Pyrris
+      given-names: Yiannis
+    - family-names: Diallinas
+      given-names: George
+    - family-names: Pittis
+      given-names: Alexandros A.
+  journal: "bioRxiv"
+  year: 2026
+  doi: "10.64898/2026.10.09.757917"
